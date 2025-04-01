@@ -1,5 +1,4 @@
 # Kubernetes Theory: A Comprehensive Guide
-![Kubernetes Architecture](images/kubernetes_architecture.jpg)
 ## **Distributed Computing**
 
 Distributed computing refers to a system where multiple computers (or nodes) work together to solve a large problem or process data collaboratively. Tasks are divided among the nodes, enabling parallel processing for faster and more efficient computation.
@@ -67,7 +66,7 @@ Kubernetes is a **container orchestration platform** designed to solve distribut
 ---
 
 ## **Kubernetes Internals**
-
+![Kubernetes Architecture](images/kubernetes_architecture.jpg)
 ### **Master Node (Control Plane)**
 - **API Server**: The central interface for interacting with Kubernetes.
 - **Database (etcd)**: Stores cluster data and configurations.
